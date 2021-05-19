@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background: rgb(236, 152, 236);
+}
+
+.qwe {
+    margin: 5px;  
+}
+
+h1 {
+    color: rgb(236, 95, 236);
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(236, 152, 236);
+    margin: 5px;
+    padding: 5px;
+}
+
+footer, p {
+    border: 5px solid white;
+}
+
+nav {
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    background: rgb(181, 245, 242);
+    border: 2px;
+}
